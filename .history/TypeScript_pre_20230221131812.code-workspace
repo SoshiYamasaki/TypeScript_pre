@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/sample/stopwatch"
+		},
+		{
+			"path": "../../Downloads/sample/calendar/release"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stopwatch"
+	}
+}
